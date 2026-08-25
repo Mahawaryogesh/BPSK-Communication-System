@@ -8,14 +8,14 @@ The objective of this project is to simulate a basic digital communication syste
 
 ## System Flow
 
-Random Binary Data
-        ↓
-BPSK Modulation
-        ↓
-AWGN Channel
-        ↓
-BPSK Demodulation
-        ↓
+Random Binary Data  
+↓  
+BPSK Modulation  
+↓  
+AWGN Channel  
+↓  
+BPSK Demodulation  
+↓  
 BER Calculation
 
 ## Implementation
